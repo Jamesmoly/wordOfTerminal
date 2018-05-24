@@ -1,4 +1,4 @@
-This git repo provides a simple command line tool for acessing the wordreference.com dictionairy page (at present for Catalan).
+This git repo provides a simple command line tool for accessing the wordreference.com dictionairy page (at present for Catalan).
 
 In addition a very simple bash script has been writen to print a word and definition at random - from the definitions you have looked up - at the top of the bash terminal each time it opens.
 
