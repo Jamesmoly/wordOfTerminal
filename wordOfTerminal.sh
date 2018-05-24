@@ -1,6 +1,6 @@
 #!/bin/bash
 
-numLines=$(awk 'END{print NR}' /home/moly/Documents/Terminal/wordOfTerminal/paraulasCatala.txt)
+numLines=$(awk 'END{print NR}' ~/Documents/Terminal/wordOfTerminal/paraulasCatala.txt)
 bashLine=$(((RANDOM% numLines)+1))
-bashDef=$(awk -v var=$bashLine 'FNR == var {print $0}' /home/moly/Documents/Terminal/wordOfTerminal/paraulasCatala.txt)
+bashDef=$(awk -v var=$bashLine 'FNR == var {print $0}' ~/Documents/Terminal/wordOfTerminal/paraulasCatala.txt)
 echo $bashDef
