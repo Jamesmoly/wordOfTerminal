@@ -1,0 +1,5 @@
+catala reg: Acció de donar aigua a una extensió de terreny conreat:reg per aspersió.sin: regatge
+catala cimera: Reunió entre diferents institucions o representants de l'estat.
+catala censura: Crítica o judici negatiu que es fa d'alguna cosa, especialment del comportament dels altres.sin: condemnaSotmetiment d'una obra destinada al públic a les modificacions, supressions o prohibicions que el censor consideri convenients perquè s'ajusti a allò que l'autoritat permet:una pel·lícula que ha passat per la censura.Organisme oficial encarregat d'exercir aquesta feina:durant molts anys la censura va ser severa.
+catala inversio: Canvi de l'ordre, de la direcció o del sentit d'alguna cosa.Ús d'una quantitat de diners en alguna cosa per obtenir beneficis:ha fet una inversió en una empresa pública.Dedicació de temps i esforç per fer una cosa:la preparació dels exàmens exigeix una gran inversió d'hores i d'estudi.
+catala imant: Peça mineral, metàl·lica o d'un altre material, que té la propietat d'atreure el ferro i l'acer.
