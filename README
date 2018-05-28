@@ -8,8 +8,8 @@ The files are in the directory ~/Documents/Terminal/wordOfTerminal - you may nee
 
 I have added the following lines to ~/.bash_aliases - of course add the languages you want:
 
-alias ca='~/Documents/Terminal/wordOfTerminal/wordofTerminal.py ca'
-alias it='~/Documents/Terminal/wordOfTerminal/wordofTerminal.py it'
+alias ca='~/Documents/Terminal/wordOfTerminal/wordOfTerminal.py ca'
+alias it='~/Documents/Terminal/wordOfTerminal/wordOfTerminal.py it'
 
 Then add the following to the bottom of ~/.bashrc :
 
