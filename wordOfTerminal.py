@@ -73,15 +73,18 @@ while not (searchFinished):
 ## Printound to definitions log and to terminal ##
 	try:
 		result = soup.ol.get_text()
-				
-		with open(definitions, "a") as wordLog:
-	       		definition = ' '.join(result.split())
-	       		wordLog.write((u'{} {}: {}'.format(language.lang, searchTerm, definition)))
-	       		wordLog.write("\n")	
+	
 	except:
 		result = "no translation found"
 		pass
+	
 	print(result)
+		
+	if(result != "no translation found"):
+		with open(definitions, "a") as wordLog:
+	       		definition = ' '.join(result.split())
+	       		wordLog.write((u'{} {}: {}'.format(language.lang, searchTerm, definition)))
+	       		wordLog.write("\n")
 ## While loop continues	
 			
 		
